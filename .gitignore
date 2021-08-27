@@ -1,1 +1,4 @@
 me_ignore.txt
+*.py
+!arqu3.py
+test/
